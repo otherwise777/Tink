@@ -24,9 +24,9 @@ This is the example code found in \src\main\java\Tgraphs\analyze_rita.java, this
 
 # background
 I made Tink in 2017 for my master thesis for graduation computer science and engineering at the Eindhoven University of Technology. I will present Tink at the Flink forward conference in september 2017 in Berlin. Some sources:
-* ![Thesis 2017](http://www.win.tue.nl/~gfletche/ligtenberg2017.pdf)
-* ![Video presentation of Tink](https://www.youtube.com/watch?v=ZBvtqLyjPqE)
-* ![Presentation at Flink forward conference(not available yet)](https://berlin.flink-forward.org/)
+* [Thesis 2017](http://www.win.tue.nl/~gfletche/ligtenberg2017.pdf)
+* [Video presentation of Tink](https://www.youtube.com/watch?v=ZBvtqLyjPqE)
+* [Presentation at Flink forward conference(not available yet)](https://berlin.flink-forward.org/)
 
 # roadmap
 * Configure Maven in such a way that Flink doesn't has to be pulled as a library
